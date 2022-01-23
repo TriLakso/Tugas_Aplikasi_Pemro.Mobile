@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Minat Bakat</string>
+    <string name="text1">
+    Workshop Robotika merupakan sebuah Lembaga Semi Otonom (LSO) yang di dirikan pada tanggal 24 Mei 2004 di Fakultas Teknik Universitas Muhammadiyah Malang (UMM) yang bertujuan membina mahasiswa akademis, kreatif, dan pencipta yang memiliki kepekaan dalam dunia research dan teknologi robotika. Berdasarkan tujuan Workshop Robotika itu sendiri,
+    diharapkan bisa bermanfaat sebagai wadah bagi mahasiswa yang mempunyai minat dan ingin belajar tentang robotika.
+    </string>
+
+    <string name="text2">
+    Civitas Bola Basket Muhammadiyah (CiBBM) rutin melakukan latihan dua kali dalam seminggu. Menghadirkan pelatih berlisensi nasional dengan kontrak per-periode, CiBBM bayak mengikuti kompetisi baik di tingkat lokal, regional, maupun nasional.
+
+    Setiap tim di CiBBM memiliki coaching staff yang terdiri dari pelatih tim, asisten pelatih, dan manajer. Pelatih berperan lebih banyak pada pembinaan fisik seperti melakukan condition atau pemanasan optimal dengan berlari, push up, hingga sprint. Tidak hanya itu, pelatih juga berperan besar dalam membina dan mengajarkan pengembangan strategi permainan tim.
+
+    Sementara itu, asisten pelatih berperan lebih banyak untuk melakukan pendekatan dan penerapan strategi kepada pemain. Untuk manajer, bertanggungjawab pada pengaturan jadwal latihan hingga logistik medis seperti pemberian vitamin dan suplemen.
+
+    Seperti bidang olah raga lain, CiBBM juga kerap mengikuti pertandingan basket dan membawa pulang kemenangan. Keberadaan CIBBM di Liga Mahasiswa (LIMA) juga cukup diperhitungkan.
+</string>
+
+    <string name="text3">
+sepak bola? UMM punya Unit Kegiatan Mahasiswa (UKM) Sepak Bola UMM Football Club (UMM FC). Selalu menjaga kekompakan tim termasuk dengan latihan rutin, kesebelasan ini bertabur prestasi dan menorehkan kebanggan.
+
+Pada Pertandingan Sepak Bola Internal Persema PSSI pada akhir 2020, Tim UMM berhasil meraih Juara I setelah mengalahkan tim dari Universitas Brawijaya (UB) dengan skor 2-0 di babak final. Tim UMM juga berhasil menjadi Juara pada Torabika Campus Cup 2017 Regional Malang setelah menaklukkan Universitas Negeri Malang (UM) dengan skor 2-0
+    </string>
+
+    <string name="text4">
+ Selain sepak bola dan basket, di Universitas Muhammadiyah Malang (UMM) juga terdapat UKM Bola Voli, yakni Muhammadiyah Volly Ball Team (MVBT). Mengadakan latihan tiga kali dalam seminggu, pada setiap hari Senin, Rabu and Jumat,
+        MVTB terus mengoptimalkan latihan dengan mengundang pelatih profesional, utamanya saat menjelang turnamen.
+        Dengan dukungan penuh dari kampus, MVBT terus mengukir prestasi dengan memaksimalkan potensi yang dimiliki.
+    </string>
+
+</resources>
